@@ -4110,3 +4110,12 @@ input, select, textarea {
 	}
 
 /* my styles */
+
+#banner .inner .logo {
+	width: 120px;
+	height: 120px;
+	/* background:red; */
+	border-radius: 50%;
+	background: url("/images/jb-headshot-square.jpeg");
+	background-size: 100%;
+}
